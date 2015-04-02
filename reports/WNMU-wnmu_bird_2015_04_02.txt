@@ -1,0 +1,64 @@
+Report for Institution Code WNMU, Resource wnmu_bird
+Usage stats for March, 2015, generated on 2015/04/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 0
+Number of records retrieved in searches: 0
+Number of different countries where searches have been originated: 0
+
+Origin of the queries that retrieved data from the resource: 
+
+Dates of the queries that retrieved data from the resource: 
+
+List of queries that retrieved data from the resource: 
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 9 (out of 298 download events in this period)
+Total number of records downloaded: 24 (out of 2382149 records downloaded for all resources in this period)
+Total number of unique records downloaded: 24
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 4
+	Country: Mexico ; Times: 3
+	Country: United States ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-03-08 ; Times: 1
+	Date: 2015-03-18 ; Times: 3
+	Date: 2015-03-22 ; Times: 1
+	Date: 2015-03-27 ; Times: 1
+	Date: 2015-03-30 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "stateprovince:"Ohio" country:"United States" class:Aves" ; Times: 1
+	Query: "Colinus virginianus" ; Times: 1
+	Query: "guiraca caerulea" ; Times: 1
+	Query: "passerina versicolor" ; Times: 1
+	Query: "Centrocercus urophasianus" ; Times: 1
+	Query: "Buteo swainsoni" ; Times: 1
+	Query: "passerina ciris" ; Times: 1
+	Query: "asio flammeus" ; Times: 1
+	Query: "passerina caerulea" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 14
+Total number of records retrieved from searches: 147
+Number of download events that retrieved data from the resource: 23
+Total number of records downloaded: 88
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 21
+Total number of records retrieved from searches: 352
+Number of download events that retrieved data from the resource: 136
+Total number of records downloaded: 1687
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
