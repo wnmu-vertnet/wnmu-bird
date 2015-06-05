@@ -1,0 +1,71 @@
+Report for Institution Code WNMU, Resource wnmu_bird
+Usage stats for May, 2015, generated on 2015/06/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 1
+Number of records retrieved in searches: 2
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-05-23 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "all Spizella pallida specimens from New Mexico" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 12 (out of 976 download events in this period)
+Total number of records downloaded: 158 (out of 7910366 records downloaded for all resources in this period)
+Total number of unique records downloaded: 87
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Mexico ; Times: 4
+	Country: Netherlands ; Times: 1
+	Country: United States ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-05-05 ; Times: 1
+	Date: 2015-05-12 ; Times: 3
+	Date: 2015-05-13 ; Times: 1
+	Date: 2015-05-15 ; Times: 2
+	Date: 2015-05-23 ; Times: 2
+	Date: 2015-05-24 ; Times: 1
+	Date: 2015-05-25 ; Times: 1
+	Date: 2015-05-27 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Cistothorus palustris" ; Times: 1
+	Query: "Tympanuchus cupido cupido" ; Times: 1
+	Query: "Tyrannidae" ; Times: 2
+	Query: "tyto alba" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "all Spizella pallida specimens from New Mexico" ; Times: 2
+	Query: "country:"Mexico"" ; Times: 1
+	Query: "country:"Mexico" class:Aves" ; Times: 1
+	Query: "Cistothorus platensis" ; Times: 1
+	Query: "certhia americana" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 15
+Total number of records retrieved from searches: 149
+Number of download events that retrieved data from the resource: 35
+Total number of records downloaded: 246
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 22
+Total number of records retrieved from searches: 354
+Number of download events that retrieved data from the resource: 148
+Total number of records downloaded: 1845
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
