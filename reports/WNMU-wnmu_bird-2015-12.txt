@@ -1,0 +1,61 @@
+Report for Institution Code WNMU, Resource wnmu_bird
+Usage stats for December 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 4
+Number of records retrieved in searches: 8
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 1
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-12-14 ; Times: 1
+	Date: 2015-12-30 ; Times: 1
+	Date: 2015-12-08 ; Times: 1
+	Date: 2015-12-05 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "mergus serrator mexico" ; Times: 1
+	Query: "catalognumber:1017" ; Times: 1
+	Query: "aegolius acadicus mexico" ; Times: 1
+	Query: "Asio flammeus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 11 (out of 889 download events in this period)
+Total number of records downloaded: 92
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 8
+	Country: Unknown ; Times: 1
+	Country: Canada ; Times: 1
+	Country: Brazil ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-12-08 ; Times: 1
+	Date: 2015-12-02 ; Times: 3
+	Date: 2015-12-07 ; Times: 1
+	Date: 2015-12-04 ; Times: 1
+	Date: 2015-12-31 ; Times: 3
+	Date: 2015-12-27 ; Times: 1
+	Date: 2015-12-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Calcarius mccownii" ; Times: 1
+	Query: "Troglodytes" ; Times: 1
+	Query: "pelecanus erythrorhynchos" ; Times: 1
+	Query: "Archilochus alexandri type:specimen" ; Times: 1
+	Query: "Grus canadensis specimens from New Mexico" ; Times: 1
+	Query: "Donna C. Cole" ; Times: 1
+	Query: "sturnella neglecta" ; Times: 1
+	Query: "passer domesticus" ; Times: 1
+	Query: "Archilochus colubris type:specimen" ; Times: 2
+	Query: "type:specimen family:Thraupidae country:&#34;United States&#34; sex:male" ; Times: 1
+
+
+End of report.
