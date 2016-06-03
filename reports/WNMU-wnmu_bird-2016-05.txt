@@ -1,0 +1,45 @@
+Report for Institution Code WNMU, Resource wnmu_bird
+Usage stats for May 2016, generated on 2016/06/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 2
+Number of records retrieved in searches: 5
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-20 ; Times: 1
+	Date: 2016-05-10 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Callipepla squamata distance(location,geopoint(29.075375179558346,-109.62158203125))&lt;431816.7065638619" ; Times: 1
+	Query: "oxyura new mexico" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 5 (out of 327 download events in this period)
+Total number of records downloaded: 10
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: China ; Times: 2
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-15 ; Times: 1
+	Date: 2016-05-25 ; Times: 2
+	Date: 2016-05-31 ; Times: 1
+	Date: 2016-05-19 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Chamaea" ; Times: 1
+	Query: "Parabuteo unicinctus Mexico" ; Times: 2
+	Query: "vermivora" ; Times: 1
+	Query: "Timaliidae" ; Times: 1
+
+
+End of report.
