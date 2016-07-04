@@ -1,0 +1,48 @@
+Report for Institution Code WNMU, Resource wnmu_bird
+Usage stats for June 2016, generated on 2016/07/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 2
+Number of records retrieved in searches: 2
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-04 ; Times: 1
+	Date: 2016-06-13 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:alba genus:tyto stateprovince:&#34;michigan&#34; year &gt;= 1951 year &lt;= 1955" ; Times: 1
+	Query: "Toxostoma crissale" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 7 (out of 1052 download events in this period)
+Total number of records downloaded: 17
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Mexico ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-08 ; Times: 1
+	Date: 2016-06-05 ; Times: 2
+	Date: 2016-06-14 ; Times: 1
+	Date: 2016-06-15 ; Times: 1
+	Date: 2016-06-13 ; Times: 1
+	Date: 2016-06-07 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Falco peregrinus" ; Times: 1
+	Query: "Aquila chrysaetos" ; Times: 1
+	Query: "aegolius Acadicus" ; Times: 1
+	Query: "Columba livia" ; Times: 1
+	Query: "aegolius acadicus" ; Times: 1
+	Query: "columba livia" ; Times: 1
+	Query: "Meleagris" ; Times: 1
+
+
+End of report.
