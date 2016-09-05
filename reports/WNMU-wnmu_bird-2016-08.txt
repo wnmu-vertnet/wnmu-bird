@@ -1,0 +1,54 @@
+Report for Institution Code WNMU, Resource wnmu_bird
+Usage stats for August 2016, generated on 2016/09/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 2
+Number of records retrieved in searches: 5
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-08-25 ; Times: 1
+	Date: 2016-08-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "class:aves county:&#34;hidalgo&#34; stateprovince:&#34;New mexico&#34; year &gt;= 1962 year &lt;= 1962" ; Times: 1
+	Query: "catalognumber:1726" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 9 (out of 924 download events in this period)
+Total number of records downloaded: 70
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 6
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-08-13 ; Times: 1
+	Date: 2016-08-14 ; Times: 1
+	Date: 2016-08-18 ; Times: 1
+	Date: 2016-08-24 ; Times: 1
+	Date: 2016-08-27 ; Times: 1
+	Date: 2016-08-22 ; Times: 2
+	Date: 2016-08-19 ; Times: 1
+	Date: 2016-08-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "gavia" ; Times: 1
+	Query: "Mexico" ; Times: 1
+	Query: "Coccyzus americanus" ; Times: 1
+	Query: "Apodidae" ; Times: 1
+	Query: "specificepithet:domesticus genus:passer" ; Times: 1
+	Query: "Callipepla californica" ; Times: 1
+	Query: "Buteo swainsoni" ; Times: 1
+	Query: "cistothorus platensis" ; Times: 1
+	Query: "lanius ludovicianus" ; Times: 1
+
+
+End of report.
