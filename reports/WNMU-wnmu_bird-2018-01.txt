@@ -1,0 +1,79 @@
+Report for Institution Code WNMU, Resource wnmu_bird
+Usage stats for January 2018, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 18
+Number of records retrieved in searches: 18
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+	Country: Russia ; Times: 1
+	Country: Mexico ; Times: 12
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-18 ; Times: 2
+	Date: 2018-01-24 ; Times: 2
+	Date: 2018-01-25 ; Times: 1
+	Date: 2018-01-15 ; Times: 5
+	Date: 2018-01-14 ; Times: 1
+	Date: 2018-01-16 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "Camptostoma imberbe" ; Times: 1
+	Query: "Tyrannus vociferans" ; Times: 1
+	Query: "Streptoprocne zonaris" ; Times: 1
+	Query: "Mycteria americana" ; Times: 1
+	Query: "Nyctanassa violacea" ; Times: 1
+	Query: "Pheucticus chrysopeplus" ; Times: 1
+	Query: "specificepithet:gambelii genus:Callipepla class:Aves county:&#34;pima&#34;" ; Times: 1
+	Query: "Turdus migratorius (male or female)" ; Times: 1
+	Query: "Caracara cheriway" ; Times: 1
+	Query: "Dendrocygna bicolor" ; Times: 1
+	Query: "Buteogallus anthracinus" ; Times: 1
+	Query: "Megascops trichopsis" ; Times: 1
+	Query: "Catoptrophorus semipalmatus minnesota" ; Times: 1
+	Query: "specificepithet:strepera genus:anas class:Aves year &gt;= 1880 year &lt;= 1890" ; Times: 1
+	Query: "Trogon melanocephalus" ; Times: 1
+	Query: "Oxyura jamaicensis minnesota" ; Times: 2
+	Query: "Amazilia cyanocephala" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 12 (out of 1398 download events in this period)
+Total number of records downloaded: 43
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 9
+	Country: Canada ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-19 ; Times: 1
+	Date: 2018-01-09 ; Times: 1
+	Date: 2018-01-28 ; Times: 1
+	Date: 2018-01-25 ; Times: 5
+	Date: 2018-01-26 ; Times: 1
+	Date: 2018-01-12 ; Times: 1
+	Date: 2018-01-15 ; Times: 1
+	Date: 2018-01-22 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Nucifraga" ; Times: 1
+	Query: "genus:corvus corax country:&#34;United States&#34; hassex:1 hasmass:1" ; Times: 1
+	Query: "Turdus migratorius vntype:specimen hassex:1 hasmass:1" ; Times: 1
+	Query: "specificepithet:melodia genus:melospiza basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "caracara cheriway" ; Times: 1
+	Query: "specificepithet:curvirostre genus:Toxostoma hasmass:1" ; Times: 1
+	Query: "Empidonax hammondii" ; Times: 1
+	Query: "Rynchops niger" ; Times: 1
+	Query: "Dryocopus pileatus hassex:1" ; Times: 1
+	Query: "vntype:specimen class:Aves stateprovince:&#34;Minnesota&#34;" ; Times: 1
+	Query: "genus:Perisoreus" ; Times: 1
+	Query: "Turdus migratorius hassex:1 hasmass:1" ; Times: 1
+
+
+End of report.
