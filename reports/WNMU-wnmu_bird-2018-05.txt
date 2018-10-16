@@ -1,0 +1,44 @@
+Report for Institution Code WNMU, Resource wnmu_bird
+Usage stats for May 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 3
+Number of records retrieved in searches: 3
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-04 ; Times: 1
+	Date: 2018-05-05 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:chrysopeplus genus:Pheucticus" ; Times: 1
+	Query: "specificepithet:imberbe genus:Camptostoma" ; Times: 1
+	Query: "specificepithet:atricristatus genus:Baeolophus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 4 (out of 1178 download events in this period)
+Total number of records downloaded: 9
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-15 ; Times: 1
+	Date: 2018-05-20 ; Times: 1
+	Date: 2018-05-02 ; Times: 1
+	Date: 2018-05-27 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:ossifragus genus:Corvus year &gt;= 1800 year &lt;= 1980 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "molothrus ater hasmass:1" ; Times: 1
+	Query: "Synthliboramphus craveri" ; Times: 1
+	Query: "Columbina passerina" ; Times: 1
+
+
+End of report.
