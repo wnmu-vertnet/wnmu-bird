@@ -1,0 +1,72 @@
+Report for Institution Code WNMU, Resource wnmu_bird
+Usage stats for March 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 15
+Number of records retrieved in searches: 115
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 1
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 13
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-07 ; Times: 1
+	Date: 2018-03-03 ; Times: 1
+	Date: 2018-03-27 ; Times: 3
+	Date: 2018-03-26 ; Times: 3
+	Date: 2018-03-09 ; Times: 1
+	Date: 2018-03-23 ; Times: 4
+	Date: 2018-03-19 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Aythya specificepithet:fuligula" ; Times: 2
+	Query: "2534 colaptes" ; Times: 4
+	Query: "Aves institutioncode:WNMU hassex:1 hasmass:1" ; Times: 1
+	Query: "specificepithet:leucophrys genus:Zonotrichia year &gt;= 1891 year &lt;= 1891" ; Times: 2
+	Query: "genus:Falcipennis specificepithet:canadensis" ; Times: 2
+	Query: "frog vntype:specimen institutioncode:WNMU" ; Times: 1
+	Query: "specificepithet:pondicerianus genus:Francolinus hasmass:1" ; Times: 1
+	Query: "genus:Podiceps specificepithet:cristatus" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 12 (out of 1284 download events in this period)
+Total number of records downloaded: 490
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+	Country: United Kingdom ; Times: 2
+	Country: Colombia ; Times: 1
+	Country: Canada ; Times: 4
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-17 ; Times: 1
+	Date: 2018-03-02 ; Times: 1
+	Date: 2018-03-03 ; Times: 1
+	Date: 2018-03-04 ; Times: 1
+	Date: 2018-03-06 ; Times: 1
+	Date: 2018-03-13 ; Times: 1
+	Date: 2018-03-30 ; Times: 1
+	Date: 2018-03-20 ; Times: 2
+	Date: 2018-03-18 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:vociferus genus:Charadrius hasmass:1" ; Times: 1
+	Query: "class:Aves sex:male hassex:1 hasmass:1" ; Times: 1
+	Query: "Aves institutioncode:WNMU hassex:1 hasmass:1" ; Times: 1
+	Query: "Cygnus cygnus" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "specificepithet:curvirostre genus:toxostoma hasmass:1" ; Times: 1
+	Query: "FISH stateprovince:&#34;michigan&#34;" ; Times: 2
+	Query: "Pyrocephalus rubinus" ; Times: 1
+	Query: "specificepithet:bicolor genus:tachycineta hasmass:1" ; Times: 1
+	Query: "specificepithet:mexicanus genus:quiscalus hasmass:1" ; Times: 1
+	Query: "specificepithet:sinuatus genus:cardinalis hasmass:1" ; Times: 1
+
+
+End of report.
