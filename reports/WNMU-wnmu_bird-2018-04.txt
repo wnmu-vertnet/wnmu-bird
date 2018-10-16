@@ -1,0 +1,90 @@
+Report for Institution Code WNMU, Resource wnmu_bird
+Usage stats for April 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 4
+Number of records retrieved in searches: 5
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-13 ; Times: 1
+	Date: 2018-04-20 ; Times: 1
+	Date: 2018-04-16 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:aura genus:Cathartes stateprovince:&#34;new mexico&#34;" ; Times: 1
+	Query: "Falco mexicanus hasmass:1" ; Times: 1
+	Query: "genus:tachycineta bicolor stateprovince:&#34;indiana&#34; country:&#34;United States&#34; sex:male year &gt;= 1894 year &lt;= 2011" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 44 (out of 1359 download events in this period)
+Total number of records downloaded: 115
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 40
+	Country: Mexico ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-12 ; Times: 1
+	Date: 2018-04-13 ; Times: 1
+	Date: 2018-04-03 ; Times: 1
+	Date: 2018-04-16 ; Times: 1
+	Date: 2018-04-04 ; Times: 1
+	Date: 2018-04-18 ; Times: 1
+	Date: 2018-04-05 ; Times: 5
+	Date: 2018-04-30 ; Times: 1
+	Date: 2018-04-20 ; Times: 32
+
+List of queries that retrieved data from the resource: 
+	Query: "Falco peregrinus" ; Times: 1
+	Query: "Callipepla gambelii hasmass:1" ; Times: 1
+	Query: "caracara cheriway" ; Times: 1
+	Query: "specificepithet:caerulea genus:Guiraca class:Aves" ; Times: 1
+	Query: "specificepithet:aura genus:Cathartes stateprovince:&#34;new mexico&#34;" ; Times: 1
+	Query: "Zenaida macroura hasmass:1" ; Times: 1
+	Query: "Salpinctes obsoletus hasmass:1" ; Times: 1
+	Query: "Bubo scandiacus" ; Times: 1
+	Query: "vntype:specimen class:Aves locality:salton sea" ; Times: 1
+	Query: "Charadrius vociferus hasmass:1" ; Times: 1
+	Query: "Psaltriparus minimus hasmass:1" ; Times: 1
+	Query: "Campylorhynchus brunneicapillus hasmass:1" ; Times: 1
+	Query: "Polioptila melanura hasmass:1" ; Times: 1
+	Query: "Cardinalis sinuatus hasmass:1" ; Times: 1
+	Query: "Sturnella neglecta hasmass:1" ; Times: 1
+	Query: "Pipilo maculatus hasmass:1" ; Times: 1
+	Query: "Amphispiza bilineata hasmass:1" ; Times: 1
+	Query: "Protonotaria citrea" ; Times: 2
+	Query: "Spizella breweri hasmass:1" ; Times: 1
+	Query: "Geothlypis trichas hasmass:1" ; Times: 1
+	Query: "caracara" ; Times: 1
+	Query: "Passer domesticus hasmass:1" ; Times: 1
+	Query: "Cathartes aura hasmass:1" ; Times: 1
+	Query: "Meleagris gallopavo" ; Times: 1
+	Query: "Falco sparverius hasmass:1" ; Times: 1
+	Query: "Phainopepla nitens hasmass:1" ; Times: 1
+	Query: "Toxostoma curvirostre hasmass:1" ; Times: 1
+	Query: "Eremophila alpestris hasmass:1" ; Times: 1
+	Query: "Sayornis saya hasmass:1" ; Times: 1
+	Query: "Aphelocoma californica hasmass:1" ; Times: 1
+	Query: "Catharus guttatus hasmass:1" ; Times: 1
+	Query: "Progne subis" ; Times: 1
+	Query: "Picoides scalaris hasmass:1" ; Times: 1
+	Query: "Agelaius phoeniceus hasmass:1" ; Times: 1
+	Query: "Zonotrichia leucophrys hasmass:1" ; Times: 1
+	Query: "Spizella passerina hasmass:1" ; Times: 1
+	Query: "Regulus calendula hasmass:1" ; Times: 1
+	Query: "Accipiter striatus hasmass:1" ; Times: 1
+	Query: "Oreortyx pictus hasmass:1" ; Times: 1
+	Query: "Falco mexicanus hasmass:1" ; Times: 1
+	Query: "Poecile gambeli hasmass:1" ; Times: 1
+	Query: "Tyrannus verticalis hasmass:1" ; Times: 1
+	Query: "protonotaria citrea" ; Times: 1
+
+
+End of report.
