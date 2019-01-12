@@ -1,0 +1,59 @@
+Report for Institution Code WNMU, Resource wnmu_bird
+Usage stats for December 2018, generated on 2019/01/12
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 2
+Number of records retrieved in searches: 2
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-12-28 ; Times: 1
+	Date: 2018-12-05 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen county:&#34;ionia&#34; stateprovince:&#34;michigan&#34; hassex:1" ; Times: 1
+	Query: "genus:Catharus recordedby:Harris" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 15 (out of 809 download events in this period)
+Total number of records downloaded: 122
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 9
+	Country: India ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-12-20 ; Times: 3
+	Date: 2018-12-21 ; Times: 1
+	Date: 2018-12-19 ; Times: 1
+	Date: 2018-12-18 ; Times: 1
+	Date: 2018-12-31 ; Times: 1
+	Date: 2018-12-28 ; Times: 1
+	Date: 2018-12-17 ; Times: 5
+	Date: 2018-12-12 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "megascops kennicottii" ; Times: 1
+	Query: "Asio otus" ; Times: 1
+	Query: "strigidae" ; Times: 1
+	Query: "(&#34;black-throated sparrow&#34; OR &#34;Amphispiza bilineata&#34;)" ; Times: 1
+	Query: "athene cunicularia" ; Times: 1
+	Query: "family:trochilidae" ; Times: 1
+	Query: "aegolius acadicus" ; Times: 1
+	Query: "(&#34;cactus wren&#34; OR &#34;Campylorhynchus brunneicapillus&#34;)" ; Times: 1
+	Query: "Geococcyx californianus" ; Times: 1
+	Query: "specificepithet:sinuatus genus:Cardinalis" ; Times: 1
+	Query: "glaucidium gnoma" ; Times: 1
+	Query: "specificepithet:livia genus:Columba" ; Times: 1
+	Query: "Centrocercus urophasianus" ; Times: 1
+	Query: "(&#34;curve-billed thrasher&#34; OR &#34;Toxostoma curvirostre&#34;)" ; Times: 1
+	Query: "(&#34;verdin&#34; OR &#34;Auriparus flaviceps&#34;)" ; Times: 1
+
+
+End of report.
