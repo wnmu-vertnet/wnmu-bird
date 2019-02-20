@@ -1,0 +1,56 @@
+Report for Institution Code WNMU, Resource wnmu_bird
+Usage stats for January 2019, generated on 2019/02/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 2
+Number of records retrieved in searches: 4
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Peru ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-09 ; Times: 1
+	Date: 2019-01-13 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Amazonetta brasiliensis" ; Times: 1
+	Query: "genus:Alectoris hasmass:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 10 (out of 962 download events in this period)
+Total number of records downloaded: 23
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 7
+	Country: Canada ; Times: 2
+	Country: New Zealand ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-03 ; Times: 3
+	Date: 2019-01-01 ; Times: 1
+	Date: 2019-01-19 ; Times: 1
+	Date: 2019-01-15 ; Times: 1
+	Date: 2019-01-09 ; Times: 1
+	Date: 2019-01-08 ; Times: 1
+	Date: 2019-01-25 ; Times: 1
+	Date: 2019-01-23 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:caerulea caerulea genus:Passerina year &gt;= 1970 year &lt;= 2018" ; Times: 1
+	Query: "specificepithet:rubra genus:Piranga year &gt;= 1970 year &lt;= 2018" ; Times: 1
+	Query: "genus:sula specificepithet:leucogaster" ; Times: 1
+	Query: "sphyrapicus nuchalis sex:female" ; Times: 1
+	Query: "vntype:specimen class:Aves (culmen)" ; Times: 1
+	Query: "Polioptila melanura" ; Times: 1
+	Query: "Asio flammeus" ; Times: 1
+	Query: "genus:myioborus hasmass:1" ; Times: 1
+	Query: "Toxostoma crissale" ; Times: 1
+	Query: "Colaptes chrysoides" ; Times: 1
+
+
+End of report.
