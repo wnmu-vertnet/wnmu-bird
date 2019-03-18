@@ -1,0 +1,89 @@
+Report for Institution Code WNMU, Resource wnmu_bird
+Usage stats for February 2019, generated on 2019/03/18
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 11
+Number of records retrieved in searches: 12
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 3
+	Country: United States ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-11 ; Times: 1
+	Date: 2019-02-08 ; Times: 2
+	Date: 2019-02-12 ; Times: 7
+	Date: 2019-02-05 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Callipepla squamata mappable:1" ; Times: 1
+	Query: "Callipepla squamata squamata mappable:1" ; Times: 2
+	Query: "Bubulcus AND ibis AND massing" ; Times: 1
+	Query: "stateprovince:&#34;new mexico&#34; genus:Buteo year:1960" ; Times: 1
+	Query: "Callipepla squamata pallida mappable:1" ; Times: 2
+	Query: "Anas OR Mareca AND strepera AND massing" ; Times: 1
+	Query: "Toxostoma crissale crissale mappable:1" ; Times: 1
+	Query: "Toxostoma crissale mappable:1" ; Times: 1
+	Query: "Egretta AND thula AND massing" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 36 (out of 1227 download events in this period)
+Total number of records downloaded: 53
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 32
+	Country: United States ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-02 ; Times: 4
+	Date: 2019-02-11 ; Times: 2
+	Date: 2019-02-12 ; Times: 12
+	Date: 2019-02-06 ; Times: 1
+	Date: 2019-02-04 ; Times: 1
+	Date: 2019-02-05 ; Times: 12
+	Date: 2019-02-08 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Aythya AND americana AND massing" ; Times: 1
+	Query: "Tringa AND flavipes AND massing" ; Times: 1
+	Query: "Dendroica OR Setophaga AND magnolia AND massing" ; Times: 1
+	Query: "Bucephala AND albeola AND massing" ; Times: 1
+	Query: "Calidris AND minutilla AND massing" ; Times: 1
+	Query: "Arenaria AND interpres AND massing" ; Times: 1
+	Query: "Aythya AND affinis AND massing" ; Times: 1
+	Query: "Limosa AND fedoa AND massing" ; Times: 1
+	Query: "Buteo AND platypterus AND massing" ; Times: 1
+	Query: "Geothlypis AND trichas AND massing" ; Times: 1
+	Query: "Anas OR Spatula AND clypeata AND massing" ; Times: 1
+	Query: "Butorides AND virescens OR striata AND massing" ; Times: 1
+	Query: "Somateria AND spectabilis AND massing" ; Times: 1
+	Query: "Anas OR Mareca AND strepera AND massing" ; Times: 1
+	Query: "specificepithet:americana genus:Spiza year &gt;= 1970 year &lt;= 2018" ; Times: 1
+	Query: "Buteo AND lagopus AND massing" ; Times: 1
+	Query: "toxostoma rufum" ; Times: 1
+	Query: "Calidris AND alpina AND massing" ; Times: 1
+	Query: "perisoreus canadensis" ; Times: 1
+	Query: "Buteo AND swainsoni AND massing" ; Times: 1
+	Query: "Anser OR Chen AND caerulescens AND massing" ; Times: 1
+	Query: "Dendroica OR Setophaga AND coronata OR auduboni AND massing" ; Times: 1
+	Query: "Buteo AND jamaicensis AND massing" ; Times: 1
+	Query: "Anas AND carolinensis OR crecca AND massing" ; Times: 1
+	Query: "Ardea AND herodias AND massing" ; Times: 1
+	Query: "Circus AND hudsonius OR cyaneus AND massing" ; Times: 1
+	Query: "Anas OR Spatula AND discors AND massing" ; Times: 1
+	Query: "Dendroica OR Setophaga AND petechia OR aestiva AND massing" ; Times: 1
+	Query: "Bubulcus AND ibis AND massing" ; Times: 1
+	Query: "Accipiter AND gentilis AND massing" ; Times: 1
+	Query: "Dendroica OR Setophaga AND castanea AND massing" ; Times: 1
+	Query: "Egretta AND thula AND massing" ; Times: 1
+	Query: "Calidris AND mauri AND massing" ; Times: 1
+	Query: "rynchops niger" ; Times: 1
+	Query: "Oxyura AND jamaicensis AND massing" ; Times: 1
+	Query: "toxostoma redivivum" ; Times: 1
+
+
+End of report.
