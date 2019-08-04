@@ -1,0 +1,69 @@
+Report for Institution Code WNMU, Resource wnmu_bird
+Usage stats for July 2019, generated on 2019/08/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 23
+Number of records retrieved in searches: 225
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 2
+	Country: United States ; Times: 19
+	Country: Argentina ; Times: 1
+	Country: Nepal ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-08 ; Times: 2
+	Date: 2019-07-21 ; Times: 1
+	Date: 2019-07-12 ; Times: 9
+	Date: 2019-07-13 ; Times: 1
+	Date: 2019-07-10 ; Times: 1
+	Date: 2019-07-11 ; Times: 1
+	Date: 2019-07-05 ; Times: 2
+	Date: 2019-07-31 ; Times: 2
+	Date: 2019-07-15 ; Times: 1
+	Date: 2019-07-16 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Porphyrio specificepithet:martinica" ; Times: 1
+	Query: "vntype:specimen specificepithet:quiscula genus:Quiscalus stateprovince:&#34;Michigan&#34; year &gt;= 1900 year &lt;= 2019 month &gt;= 4 month &lt;= 7" ; Times: 2
+	Query: "Strix occidentalis" ; Times: 1
+	Query: "genus:Lampornis specificepithet:clemenciae" ; Times: 1
+	Query: "Centrocercus urophasianus" ; Times: 15
+	Query: "gbifdatasetid:bdce0b4b-9ec3-481b-9f44-683ac1844d1d" ; Times: 2
+	Query: "gbifdatasetid:bdce0b4b-9ec3-481b-9f44-683ac1844d1d procellariiformes" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 10 (out of 985 download events in this period)
+Total number of records downloaded: 33
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 9
+	Country: India ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-08 ; Times: 3
+	Date: 2019-07-18 ; Times: 1
+	Date: 2019-07-01 ; Times: 1
+	Date: 2019-07-10 ; Times: 1
+	Date: 2019-07-11 ; Times: 1
+	Date: 2019-07-30 ; Times: 1
+	Date: 2019-07-31 ; Times: 1
+	Date: 2019-07-15 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Branta bernicla" ; Times: 1
+	Query: "porzana carolina" ; Times: 1
+	Query: "vntype:specimen specificepithet:canadensis genus:Branta basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "athene cunicularia" ; Times: 1
+	Query: "Branta canadensis" ; Times: 1
+	Query: "vntype:specimen specificepithet:striatus genus:Accipiter year &gt;= 1970" ; Times: 1
+	Query: "family:icteridae haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "Chen canagica" ; Times: 1
+	Query: "Porzana carolina" ; Times: 1
+
+
+End of report.
