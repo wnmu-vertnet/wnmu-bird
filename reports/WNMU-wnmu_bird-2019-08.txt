@@ -1,0 +1,61 @@
+Report for Institution Code WNMU, Resource wnmu_bird
+Usage stats for August 2019, generated on 2019/09/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 38
+Number of records retrieved in searches: 59
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 31
+	Country: United Kingdom ; Times: 4
+	Country: Brazil ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-08-07 ; Times: 1
+	Date: 2019-08-15 ; Times: 10
+	Date: 2019-08-13 ; Times: 1
+	Date: 2019-08-05 ; Times: 8
+	Date: 2019-08-10 ; Times: 1
+	Date: 2019-08-08 ; Times: 6
+	Date: 2019-08-09 ; Times: 3
+	Date: 2019-08-22 ; Times: 3
+	Date: 2019-08-20 ; Times: 3
+	Date: 2019-08-21 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Tockus erythrorhynchus" ; Times: 1
+	Query: "Mycteria americana" ; Times: 2
+	Query: "Strix occidentalis" ; Times: 13
+	Query: "Patagioenas fasciata" ; Times: 1
+	Query: "Centrocercus urophasianus" ; Times: 8
+	Query: "Amazilia cyanocephala" ; Times: 1
+	Query: "Empidonax traillii" ; Times: 1
+	Query: "Vireo bellii" ; Times: 3
+	Query: "Lampornis clemenciae" ; Times: 1
+	Query: "Porphyrio martinica" ; Times: 3
+	Query: "Coccyzus americanus" ; Times: 2
+	Query: "Coccyzus americanus americanus" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 3 (out of 1034 download events in this period)
+Total number of records downloaded: 6
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-08-16 ; Times: 1
+	Date: 2019-08-15 ; Times: 1
+	Date: 2019-08-13 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Aquila chrysaetos" ; Times: 1
+	Query: "genus:Centrocercus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:virescens genus:Empidonax" ; Times: 1
+
+
+End of report.
