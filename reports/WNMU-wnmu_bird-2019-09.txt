@@ -1,0 +1,59 @@
+Report for Institution Code WNMU, Resource wnmu_bird
+Usage stats for September 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 37
+Number of records retrieved in searches: 65
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 37
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-06 ; Times: 37
+
+List of queries that retrieved data from the resource: 
+	Query: "Coccyzus americanus" ; Times: 10
+	Query: "Empidonax traillii" ; Times: 4
+	Query: "Coccyzus americanus americanus" ; Times: 18
+	Query: "Centrocercus urophasianus" ; Times: 5
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 27 (out of 1073 download events in this period)
+Total number of records downloaded: 39
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+	Country: Switzerland ; Times: 1
+	Country: Rwanda ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 21
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-23 ; Times: 2
+	Date: 2019-09-17 ; Times: 1
+	Date: 2019-09-24 ; Times: 1
+	Date: 2019-09-13 ; Times: 1
+	Date: 2019-09-18 ; Times: 1
+	Date: 2019-09-19 ; Times: 18
+	Date: 2019-09-30 ; Times: 1
+	Date: 2019-09-03 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Lagopus stateprovince:&#34;Newfoundland&#34; country:&#34;Canada&#34;" ; Times: 2
+	Query: "vntype:specimen stateprovince:&#34;Newfoundland&#34; (Lagopus) AND (NOT Buteo)" ; Times: 3
+	Query: "vntype:specimen stateprovince:&#34;Newfoundland&#34; (lagopus) AND (NOT Buteo)" ; Times: 1
+	Query: "strix occidentalis" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "ants" ; Times: 1
+	Query: "vntype:specimen stateprovince:&#34;newfoundland&#34; (lagopus) AND (NOT buteo NOT Alopex NOT Vulpes)" ; Times: 3
+	Query: "nucifraga columbiana" ; Times: 2
+	Query: "vntype:specimen stateprovince:&#34;Newfoundland&#34; (lagopus) AND (NOT buteo)" ; Times: 11
+	Query: "lagopus newfoundland vntype:specimen" ; Times: 1
+	Query: "order:psittaciformes haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+
+
+End of report.
