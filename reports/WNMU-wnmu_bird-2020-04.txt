@@ -1,0 +1,76 @@
+Report for Institution Code WNMU, Resource wnmu_bird
+Usage stats for April 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 30
+Number of records retrieved in searches: 36
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 19
+	Country: United States ; Times: 5
+	Country: India ; Times: 4
+	Country: Unknown ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-19 ; Times: 1
+	Date: 2020-04-11 ; Times: 1
+	Date: 2020-04-17 ; Times: 3
+	Date: 2020-04-07 ; Times: 7
+	Date: 2020-04-21 ; Times: 8
+	Date: 2020-04-27 ; Times: 3
+	Date: 2020-04-24 ; Times: 2
+	Date: 2020-04-03 ; Times: 3
+	Date: 2020-04-29 ; Times: 1
+	Date: 2020-04-08 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Tympanuchus pallidicinctus" ; Times: 1
+	Query: "Aythya fuligula" ; Times: 6
+	Query: "Alectoris chukar" ; Times: 6
+	Query: "asio flammeus" ; Times: 1
+	Query: "Anas diazi" ; Times: 1
+	Query: "Buteogallus anthracinus" ; Times: 4
+	Query: "francolinus francolinus india" ; Times: 2
+	Query: "Asio flammeus" ; Times: 2
+	Query: "Buteo jamaicensis harlani" ; Times: 1
+	Query: "Anas platyrhynchos sex:male AND (diazi)" ; Times: 1
+	Query: "Pelecanus erythrorhynchos Texas" ; Times: 1
+	Query: "Anas diazi sex:male" ; Times: 1
+	Query: "Amazilia cyanocephala" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 10 (out of 1171 download events in this period)
+Total number of records downloaded: 46
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 10
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-14 ; Times: 1
+	Date: 2020-04-22 ; Times: 1
+	Date: 2020-04-30 ; Times: 1
+	Date: 2020-04-07 ; Times: 1
+	Date: 2020-04-27 ; Times: 1
+	Date: 2020-04-24 ; Times: 1
+	Date: 2020-04-29 ; Times: 3
+	Date: 2020-04-08 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Aphelocoma californica" ; Times: 1
+	Query: "Rallus longirostris" ; Times: 1
+	Query: "Passerina cyanea" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo" ; Times: 1
+	Query: "Egretta caerulea Texas" ; Times: 1
+	Query: "Spizella passerina hasmass:1" ; Times: 1
+	Query: "Rallus limicola" ; Times: 1
+	Query: "Pelecanus erythrorhynchos Texas" ; Times: 1
+	Query: "Plegadis chihi Texas" ; Times: 1
+
+
+End of report.
