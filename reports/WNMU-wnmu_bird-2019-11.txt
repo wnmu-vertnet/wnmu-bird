@@ -1,0 +1,67 @@
+Report for Institution Code WNMU, Resource wnmu_bird
+Usage stats for November 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 34
+Number of records retrieved in searches: 57
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 24
+	Country: Thailand ; Times: 7
+	Country: India ; Times: 1
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-16 ; Times: 6
+	Date: 2019-11-08 ; Times: 2
+	Date: 2019-11-09 ; Times: 6
+	Date: 2019-11-15 ; Times: 8
+	Date: 2019-11-07 ; Times: 10
+	Date: 2019-11-05 ; Times: 1
+	Date: 2019-11-01 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Anas crecca crecca hasmass:1" ; Times: 1
+	Query: "Coccyzus americanus 1974" ; Times: 4
+	Query: "Pandion haliaetus haliaetus hasmass:1" ; Times: 1
+	Query: "Arenaria interpres interpres hasmass:1" ; Times: 1
+	Query: "Spizella atrogularis" ; Times: 1
+	Query: "Calliope calliope hasmass:1" ; Times: 1
+	Query: "Calliope calliope calliope hasmass:1" ; Times: 1
+	Query: "Guiraca caerulea hasmass:1" ; Times: 1
+	Query: "Coccyzus americanus 2007" ; Times: 4
+	Query: "Mycteria americana 2019" ; Times: 4
+	Query: "Buteo platypterus mexico" ; Times: 1
+	Query: "Asio otus otus hasmass:1" ; Times: 1
+	Query: "Mycteria americana 2007" ; Times: 4
+	Query: "Coccyzus americanus 2019" ; Times: 8
+	Query: "India bird class:aves country:&#34;India&#34; preparations:skin institutioncode:WNMU basisofrecord:PreservedSpecimen" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 6 (out of 1367 download events in this period)
+Total number of records downloaded: 76
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+	Country: India ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-06 ; Times: 2
+	Date: 2019-11-15 ; Times: 1
+	Date: 2019-11-04 ; Times: 1
+	Date: 2019-11-05 ; Times: 1
+	Date: 2019-11-01 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "order:Cathartiformes" ; Times: 2
+	Query: "specificepithet:alba genus:Tyto (stomach)" ; Times: 1
+	Query: "window class:Aves year &gt;= 1960 year &lt;= 2018" ; Times: 1
+	Query: "India bird class:aves country:&#34;India&#34; preparations:skin institutioncode:WNMU basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Passerina cyanea" ; Times: 1
+
+
+End of report.
