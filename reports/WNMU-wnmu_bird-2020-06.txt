@@ -1,0 +1,72 @@
+Report for Institution Code WNMU, Resource wnmu_bird
+Usage stats for June 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 26
+Number of records retrieved in searches: 57
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 8
+	Country: Canada ; Times: 18
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-15 ; Times: 1
+	Date: 2020-06-14 ; Times: 4
+	Date: 2020-06-03 ; Times: 20
+	Date: 2020-06-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Larus argentatus hasmass:1" ; Times: 1
+	Query: "Cathartes aura hasmass:1" ; Times: 1
+	Query: "Progne subis hasmass:1" ; Times: 1
+	Query: "Phalacrocorax auritus hasmass:1" ; Times: 1
+	Query: "Pandion haliaetus hasmass:1" ; Times: 1
+	Query: "Falco sparverius hasmass:1" ; Times: 1
+	Query: "Tyto alba hasmass:1" ; Times: 1
+	Query: "Sterna hirundo hasmass:1" ; Times: 1
+	Query: "Strix varia hasmass:1" ; Times: 1
+	Query: "Sialia currucoides hasmass:1" ; Times: 1
+	Query: "Zenaida macroura hasmass:1" ; Times: 1
+	Query: "specificepithet:ciris genus:Passerina county:&#34;Cameron&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Accipiter cooperii hasmass:1" ; Times: 2
+	Query: "Tachycineta bicolor hasmass:1" ; Times: 1
+	Query: "Accipiter gentilis hasmass:1" ; Times: 1
+	Query: "Sialia mexicana hasmass:1" ; Times: 1
+	Query: "Buteo jamaicensis hasmass:1" ; Times: 1
+	Query: "Centrocercus urophasianus" ; Times: 6
+	Query: "Athene cunicularia hasmass:1" ; Times: 1
+	Query: "specificepithet:rubra genus:Piranga county:&#34;Cameron&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 12 (out of 474 download events in this period)
+Total number of records downloaded: 32
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+	Country: Brazil ; Times: 9
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-02 ; Times: 1
+	Date: 2020-06-10 ; Times: 10
+	Date: 2020-06-01 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:rubra genus:Piranga" ; Times: 1
+	Query: "specificepithet:interpres genus:Arenaria" ; Times: 1
+	Query: "Arenaria interpres" ; Times: 1
+	Query: "specificepithet:violacea genus:Nyctanassa" ; Times: 1
+	Query: "Pandion haliaetus" ; Times: 1
+	Query: "Dryocopus pileatus" ; Times: 1
+	Query: "Nyctanassa violacea" ; Times: 1
+	Query: "specificepithet:fuscescens genus:Catharus" ; Times: 1
+	Query: "specificepithet:pictus genus:oreortyx order:galliformes" ; Times: 1
+	Query: "Piranga rubra" ; Times: 1
+	Query: "Catharus fuscescens" ; Times: 1
+	Query: "Strix occidentalis" ; Times: 1
+
+
+End of report.
