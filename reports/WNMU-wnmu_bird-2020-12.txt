@@ -1,0 +1,48 @@
+Report for Institution Code WNMU, Resource wnmu_bird
+Usage stats for December 2020, generated on 2021/01/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 2
+Number of records retrieved in searches: 2
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 1
+	Country: United Kingdom ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-12-10 ; Times: 1
+	Date: 2020-12-20 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "67116" ; Times: 1
+	Query: "Spizella atrogularis" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 8 (out of 705 download events in this period)
+Total number of records downloaded: 117
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: United States ; Times: 3
+	Country: Canada ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-12-06 ; Times: 1
+	Date: 2020-12-12 ; Times: 2
+	Date: 2020-12-26 ; Times: 1
+	Date: 2020-12-03 ; Times: 2
+	Date: 2020-12-02 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "family:anatidae" ; Times: 1
+	Query: "vntype:specimen class:Aves year &gt;= 1750 year &lt;= 1820 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Anas" ; Times: 1
+	Query: "class:aves country:Brazil" ; Times: 4
+	Query: "anas platyrhynchos" ; Times: 1
+
+
+End of report.
